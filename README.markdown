@@ -1,3 +1,7 @@
+#Amits Changes
+
+run build.sh script and a FAT will be generated for you for use in your ios app
+
 # libkeccak-tiny
 
 An implementation of the FIPS-202-defined SHA-3 and SHAKE functions
