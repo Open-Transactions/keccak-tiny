@@ -1,4 +1,4 @@
-#Amits Changes
+# Amits Changes
 
 run build.sh script and a FAT will be generated for you for use in your ios app
 
